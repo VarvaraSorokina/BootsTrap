@@ -1,0 +1,32 @@
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../img/left.png);
+}
+
+.carousel-control-next-icon {
+    background-image: url(../img/right.png);
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 20px;
+}
+
+.carousel-control-prev {
+    left: -35px;
+}
+
+.carousel-control-next {
+    right: -35px;
+}
+.fab_fa-twitter{
+height: 10px;
+width: 10px;
+}
+
+img{
+    width: 50px;
+}
